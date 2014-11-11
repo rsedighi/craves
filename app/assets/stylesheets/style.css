@@ -16,7 +16,7 @@ body {
   background-size: cover;
   background-clip: padding-box;
   width: 100%;
-  height: 42.5em;
+  height: 48.9em;
   min-height: 100%;
 }
 
@@ -105,6 +105,12 @@ header h1 {
   font-size: 7em;
 }
 
+header h3 {
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-size: 1em;
+}
+
 header p {
   color: white;
   font-family: 'Cabin', sans-serif;
@@ -127,12 +133,37 @@ footer h1 {
   font-family: 'Lobster', cursive;
 }
 
-/*footer h1 {
-  text-align: center;
+
+
+.fa-twitter {
+  color: white;
+  text-decoration: none;
+  font-size: 2em;
+
+}
+
+.fa-facebook {
+  color: white;
+  text-decoration: none;
+  font-size: 2em;
+
+}
+
+.fa-envelope-o {
+  color: white;
+  text-decoration: none;
+  font-size: 2em;
+}
+
+.container {
+  padding: 4em;
+  border-radius: 1em;
+  opacity: 0.8;
+  border-radius: 2%;
   position: absolute;
-  top: 98%;
-  background-color: orange;
+  background-color: black;
+  left: 27%;
+  top: 27%;
+  opacity: 0.689;
 
-}*/
-
-
+}
